@@ -7,7 +7,7 @@ These files are part of Mark's Code Fractal CFLib.
 
 Mark's Code Fractal CFLib is available under dual commercial license from
 Mark Stephen Sobkow, or under the terms of the GNU Library General Public License,
-Version 3 or later.
+Version 3 or later with static linking exception.
 
 As a special exception, Mark Sobkow gives you permission to link this library
 with independent modules to produce an executable, provided that none of them
